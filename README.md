@@ -58,11 +58,15 @@ Tools:
 # ENERGY SOURCES USED
 
  Wind Energy
+
 • Wind turbines convert wind energy into electrical energy.
+
 • Uses wind vanes and anemometers for wind measurement.
 
  Solar Energy
+
 • Solar panels convert sunlight into electrical energy.
+
 • Energy may be stored in batteries for later use.
 
 # Pictures/Screenshot 
