@@ -23,6 +23,7 @@ The study demonstrates how renewable energy technologies can support eco-tourism
 # MATERIALS AND EQUIPMENT
 
 Electrical Components:
+
 • Dynamo
 
 • LED Lights
@@ -30,6 +31,7 @@ Electrical Components:
 • Solar Wire
 
 Construction Materials:
+
 • Popsicle Sticks
 
 • Cardboard
@@ -39,6 +41,7 @@ Construction Materials:
 • Sand
 
 Tools:
+
 • Glue Stick
 
 • Glue Gun
